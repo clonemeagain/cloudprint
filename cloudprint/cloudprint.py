@@ -37,7 +37,7 @@ import tempfile
 import time
 import uuid
 
-from cloudprint import xmpp
+import xmpp
 
 
 XMPP_SERVER_HOST = 'talk.google.com'
